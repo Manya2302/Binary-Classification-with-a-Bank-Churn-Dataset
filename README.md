@@ -135,7 +135,7 @@ All kind of contributions are always welcome!
 
 ## Authors
 
-- [@anyantudre](https://github.com/ANYANTUDRE)
+- [@Manya2302](https://github.com/Manya2302)
 
 
 ## License
