@@ -106,7 +106,8 @@ I also added it to the notebooks/ folder.
 2. Clone the project
 
 ```bash
-  git clone https://github.com/ANYANTUDRE/Binary-Classification-with-a-Bank-Churn-Dataset
+  git clone https://github.com/Manya2302/Binary-Classification-with-a-Bank-Churn-Dataset.git
+
 ```
 
 3. Go to the project directory
